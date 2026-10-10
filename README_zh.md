@@ -25,10 +25,6 @@
 
 <p align="center">
   <a href="https://utaisynthesizer.net"><img src="https://img.shields.io/badge/Website-utaisynthesizer.net-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-  &nbsp;
-  <a href="https://discord.com/invite/nK4KSEWMPU"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/QQ%20Group-1097227285-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ Group">
 </p>
 
 ---
