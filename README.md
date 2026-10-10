@@ -25,7 +25,6 @@
 
 <p align="center">
   <a href="https://utaisynthesizer.net"><img src="https://img.shields.io/badge/Website-utaisynthesizer.net-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-  &nbsp;
 </p>
 
 ---
